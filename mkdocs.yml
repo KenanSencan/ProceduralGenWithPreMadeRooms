@@ -134,7 +134,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-      - Getting Started: GettingStarted.md
+      - Getting Started: index.md
       - Contents:   
           Overlaps: Overlaps.md 
           Command Prompts: CommandPrompts.md 

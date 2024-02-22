@@ -6,7 +6,7 @@ The Room Actor settings are crucial for defining room characteristics and behavi
 - **No Exit**: Indicates rooms that have an entrance but lack an exit. Such rooms are  used to terminate branches in a large room scenario.
 - **Path Start Offset** & **Path End Offset**: Adjusts the starting or ending points of corridors to avoid overlaps. For more details, see [Overlaps](../Overlaps.md).
 - **Visualize Blocked**: Enables visualization of blocked tiles within the room, aiding in the configuration process.
-- **Enter Socket Direction** & **Exit Socket Direction**: Specifies the orientation of the room's entrance and exit. Ensure alignment with the room's physical layout. For configuration guidance, refer to [Getting Started](../GettingStarted.md#setting-enter-and-exit-directions-of-the-room).
+- **Enter Socket Direction** & **Exit Socket Direction**: Specifies the orientation of the room's entrance and exit. Ensure alignment with the room's physical layout. For configuration guidance, refer to [Getting Started](../index#setting-enter-and-exit-directions-of-the-room).
 
 ---
 
