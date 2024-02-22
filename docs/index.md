@@ -1,11 +1,5 @@
 ﻿# Getting Started
 
-This plugin is currently in development and may contain issues, including serious optimization problems that could significantly affect performance. Development was paused to further enhance necessary skills in mathematics, C++ programming, and optimization techniques. Contributions to address these issues are highly welcomed. Please refer to the [errors list](Errors.md) for more details.
-
----
-
-## Introduction
-
 This plugin is inspired by the procedural map generation algorithm used in the `Enter The Gungeon` game, designed to create unique map patterns for each level with predefined rooms.
 
 ### Example of a Map from Enter The Gungeon
